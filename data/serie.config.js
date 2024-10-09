@@ -1,21 +1,18 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
+  "base": "https://Juansrc.github.io",
+  "baseurl": "/coleccion-ds",
+  "title": "Visualizando el desastre",
+  "subtitle": "colección sobre la catástrofe climática en Colombia",
+  "credits": "Por Juan Sebastián Ramírez Campos",
   "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
@@ -29,11 +26,7 @@ const config = {
         "type": "text"
       }
     ],
-    "metadataToIndex": [
-      "label",
-      "autor",
-      "fecha"
-    ]
+    "metadataToIndex": []
   }
 };
 export default config;

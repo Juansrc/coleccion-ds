@@ -9,17 +9,24 @@ layout: page
 
 # Metadatos
 
-En esta sección se encuentran los metadatos de la colección. Pueden descargarse y usarse libremente.
+Acá encontrarán los metadatos de la colección. Pueden descargarse y usarse libremente.
+Los metadatos están ordenados de la siguiente manera. Los de tipo categórico como pid, label y autor detallan las imágenes y permiten que puedan organizarse. Pid debe escribirse únicamente con minúsculas y sin carácteres especiales como tildes, puntos o comas. 
+El autor puede ser o bien el nombre del creador de la imagen o la agencia que se encarga de distribuirla. Se escribe con espacios y mayúsculas. 
+Fecha se refiere a la publicación de la imagen o, dado el caso, a la fecha que acompaña a la imagen. Esto no es indicativo de la creación de la imagen per se. 
+Key word es tanto categórico	como ordinal, pues es un metadato organizativo y que da orden a la colección. Por medio de las palabras claves es posible buscar las imágenes o ordenarlas categóricamente. Se debe escribir únicamente con minúsculas.
+Por último, fuente es el sitio web del cual se extrajo la imagen. Todos los links están activos a la fecha. Es un dato administrativo ya que sirve para ubicar los archivos más no da orden ni categoría a los mismos. 
 
 ## Protocolo
 
 Este es el protocolo que especifica la construcción de los datos de la colección:
 
-| Dato   | Descripción                                                                     |  Tipo      |
-|---     |---                                                                              |---         |
-| pid    | Identificador único                                                             | categórico |
-| label  | Nombre de la obra. Iniciales con mayúsculas                                     | categórico |
-| autor  | Autor de la obra. Inciales con mayúsculas, incluir acentos                      | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
+| Dato     | Descripción                                                                                                   |  Tipo             |
+|---       |---                                                                                                            |---                |
+| pid      | Identificador único. Solo minúsculas.                                                                         | categórico        |
+| label    | Nombre de la imagen. Iniciales con mayúsculas                                                                 | categórico        |
+| Autor    | Autor de la obra o agencia que la distribuye. Inciales con mayúsculas, incluir acentos                        | categórico        |
+| fecha    | Año aproximado de producción de la imagen o fecha de publicación.  Escrito en número completo (p.ej 1589)     | ordinal           |
+| key word | Palabra clave que describe el contenido de la imagen. Solo minúsculas                                         | categórico-ordinal|
+| fuente   | Sitio web donde se descargó la imagen. Solo URL activos.                                                      | administrativo    |
 
 <MetadataTable />

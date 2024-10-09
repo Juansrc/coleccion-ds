@@ -8,12 +8,12 @@
 
 <style>
   :global(:root){
-    --stroke: black; /* Font color */
-    --fill: #fdfcfa; /* Background color */
+    --stroke: rgb(197, 109, 50); /* Font color */
+    --fill: #ffe1c0; /* Background color */
     --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
-    --mainfont: "Lato", sans-serif;
-    --headerfont: "Lato", sans-serif;
+    --accent2: #ff8888; /* Higlights color */
+    --mainfont: "Sarabun", sans-serif;
+    --headerfont: "Passion One", sans-serif;
     font-family: var(--mainfont);
   }
 
