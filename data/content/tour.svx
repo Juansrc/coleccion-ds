@@ -14,5 +14,4 @@ layout: page
 # Recorrido por la colección
 
 Esta colección recopila imágenes que describen múltiples facetas del cambio climático. Cada imagen está ordenada con su pid, label y palabra clave. Todas las imágenes en esta colección fueron utilizadas únicamente para fines académicos. 
-
-Al final de este página se encuentra una línea del tiempo que permite ubicar temporalmente la creación de esas imágenes. 
+Puede filtrar la información en la pestana "Explorar" usando la barra de búsqueda. Seleccionando la categoría, las imágenes se van a desplegar. 
