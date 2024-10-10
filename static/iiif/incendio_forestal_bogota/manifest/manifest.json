@@ -1,0 +1,42 @@
+{
+  "id": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Incedios forestales en Bogotá"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/manifest/canvas-0.json",
+              "body": {
+                "id": "https://Juansrc.github.io/coleccion-ds/iiif/incendio_forestal_bogota/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 340,
+                "width": 600
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 600,
+      "height": 340,
+      "annotations": []
+    }
+  ]
+}

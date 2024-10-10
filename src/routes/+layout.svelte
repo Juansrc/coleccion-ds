@@ -8,10 +8,10 @@
 
 <style>
   :global(:root){
-    --stroke: rgb(197, 109, 50); /* Font color */
-    --fill: #ffe1c0; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #ff8888; /* Higlights color */
+    --stroke: rgb(117, 80, 0); /* Font color */
+    --fill: #ffefdc; /* Background color */
+    --accent1: #ffe5cf; /* Main color */
+    --accent2: #df6c00; /* Higlights color */
     --mainfont: "Sarabun", sans-serif;
     --headerfont: "Passion One", sans-serif;
     font-family: var(--mainfont);

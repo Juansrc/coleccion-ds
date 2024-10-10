@@ -1,0 +1,42 @@
+{
+  "id": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Titular de Noticia sobre situación de Desastre por agua en Bogotá"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/manifest/canvas-0.json",
+              "body": {
+                "id": "https://Juansrc.github.io/coleccion-ds/iiif/petro_desastre/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 244,
+                "width": 1121
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1121,
+      "height": 244,
+      "annotations": []
+    }
+  ]
+}

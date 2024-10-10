@@ -1,0 +1,15 @@
+{
+  "id": "https://Juansrc.github.io/coleccion-ds/iiif/movilizacion_antifracking/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://Juansrc.github.io/coleccion-ds/iiif/movilizacion_antifracking/manifest/canvas-0.json",
+  "body": {
+    "id": "https://Juansrc.github.io/coleccion-ds/iiif/movilizacion_antifracking/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 600,
+    "width": 900
+  }
+}

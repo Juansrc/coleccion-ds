@@ -1,11 +1,11 @@
-pid	label 	key word 	año	autor	fuente
-derrame_petroleo	Derrame petrolero en Barrancabermeja	derrame, petroleo	2018	NA	https://www.colombiainforma.info/crisis-ambiental-por-derrame-de-petroleo-en-barrancabermeja-lleva-20-dias/
-movilizacion_antifracking	Protestas sociales Anti Fracking en Medellin	protesta, movilizacion social	2018	NA	https://www.colombiainforma.info/medellin-se-moviliza-en-defensa-de-la-vida-y-en-contra-del-fracking/
-incendio_forestal	Bombero visualizando incendio	incendio forestal	2024	Colprensa	https://www.elcolombiano.com/colombia/incendios-en-colombia-balance-de-la-ungrd-hay-34-conflagraciones-activas-y-17192-hectareas-afectadas-EG23618581
-desplazamiento	Desplazamientos por cambio climatico	migración, desplazamiento 	2024	ACNUR, Vicente Tremau	https://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z0/fU-xCsIwFPwVl47yYq1Rx-IgiIODSJtFHmmoT5O8toni55vqIC4ux91xd3CgoALl8UEtRmKPNulayfNqvclnZSH2QhZSlPJQLJb5dn48CdiB-h9IC3Tte1WC0uyjeUaoOh4i2ntjMBMYftWFnfnwESeeI2nCkIl321PDY-prd2YgbkgzWocOoxky4agdUKcHJky1peSSxgDdTdUvRkDsKA!!/
-sequia	Sequía en Colombia 	sequia, agua	2024	Alcaldía de Bogotá 	https://es.mongabay.com/2024/04/desabastecimiento-agua-sequia-en-colombia/
-embalses	Nivel de embalses de Bogotá 	sequia, agua	2024	Alcaldía de Bogotá 	https://es.mongabay.com/2024/04/desabastecimiento-agua-sequia-en-colombia/
-petro_desastre	Titular de Noticia sobre situación de Desastre por agua en Bogotá	sequia, agua	2024	El Espectador	https://www.elespectador.com/bogota/galan-responde-a-petro-sobre-la-posibilidad-de-decretar-situacion-de-desastre-por-la-crisis-del-agua-en-bogota-noticias-hoy/
-deforestacion	Deforestación en la amazonia 	deforestacion 	2021	Colprensa	https://www.radionacional.co/actualidad/medio-ambiente/deforestacion-por-que-debemos-preocuparnos
-deslizamiento	Inundaciones por Fenómeno de La Niña	deslizamiento, inundación	2017	REUTERS	https://www.context.news/climate-risks/colombias-climate-migration-draft-law-hailed-as-life-saver
-incendio_forestal_bogota	Incedios forestales en Bogotá 	incendio forestal	2024	Revista Semana	https://www.telesurenglish.net/news/El-Nino-Puts-Colombia-in-a-Disaster-Situation-20240125-0005.html
+pid,label,key word,año,autor,fuente
+derrame_petroleo,Derrame petrolero en Barrancabermeja,petroleo,2018,NA,https://www.colombiainforma.info/crisis-ambiental-por-derrame-de-petroleo-en-barrancabermeja-lleva-20-dias/
+movilizacion_antifracking,Protestas sociales Anti Fracking en Medellin, protesta,movilizacion social,2018,NA,https://www.colombiainforma.info/medellin-se-moviliza-en-defensa-de-la-vida-y-en-contra-del-fracking/
+incendio_forestal,Bombero visualizando incendio,incendio forestal,2024,Colprensa,https://www.elcolombiano.com/colombia/incendios-en-colombia-balance-de-la-ungrd-hay-34-conflagraciones-activas-y-17192-hectareas-afectadas-EG23618581
+desplazamiento,Desplazamientos por cambio climatico,migración,desplazamiento,2024,ACNUR,Vicente Tremau,https://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z0/fU-xCsIwFPwVl47yYq1Rx-IgiIODSJtFHmmoT5O8toni55vqIC4ux91xd3CgoALl8UEtRmKPNulayfNqvclnZSH2QhZSlPJQLJb5dn48CdiB-h9IC3Tte1WC0uyjeUaoOh4i2ntjMBMYftWFnfnwESeeI2nCkIl321PDY-prd2YgbkgzWocOoxky4agdUKcHJky1peSSxgDdTdUvRkDsKA!!/
+sequia,Sequía en Colombia sequia,agua,2024,Alcaldía de Bogotá,https://es.mongabay.com/2024/04/desabastecimiento-agua-sequia-en-colombia/
+embalses,Nivel de embalses de Bogotá,sequia,2024,Alcaldía de Bogotá,https://es.mongabay.com/2024/04/desabastecimiento-agua-sequia-en-colombia/
+petro_desastre,Titular de Noticia sobre situación de Desastre por agua en Bogotá,sequia,agua,2024,El Espectador	https://www.elespectador.com/bogota/galan-responde-a-petro-sobre-la-posibilidad-de-decretar-situacion-de-desastre-por-la-crisis-del-agua-en-bogota-noticias-hoy/
+deforestacion,Deforestación en la Amazonia,deforestacion,2021,Colprensa,https://www.radionacional.co/actualidad/medio-ambiente/deforestacion-por-que-debemos-preocuparnos
+deslizamiento,Inundaciones por Fenómeno de La Niña, deslizamiento,2017,REUTERS,https://www.context.news/climate-risks/colombias-climate-migration-draft-law-hailed-as-life-saver
+incendio_forestal_bogota,Incedios forestales en Bogotá,incendio forestal,2024,Revista Semana,https://www.telesurenglish.net/news/El-Nino-Puts-Colombia-in-a-Disaster-Situation-20240125-0005.html
