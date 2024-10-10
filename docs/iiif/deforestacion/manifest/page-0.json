@@ -1,0 +1,21 @@
+{
+  "id": "https://Juansrc.github.io/coleccion-ds/iiif/deforestacion/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://Juansrc.github.io/coleccion-ds/iiif/deforestacion/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://Juansrc.github.io/coleccion-ds/iiif/deforestacion/manifest/canvas-0.json",
+      "body": {
+        "id": "https://Juansrc.github.io/coleccion-ds/iiif/deforestacion/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 900,
+        "width": 1200
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Desplazamientos por cambio climatico"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/manifest/canvas-0.json",
+              "body": {
+                "id": "https://Juansrc.github.io/coleccion-ds/iiif/desplazamiento/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 599,
+                "width": 900
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 900,
+      "height": 599,
+      "annotations": []
+    }
+  ]
+}
